@@ -17,8 +17,8 @@
 
 <h3 align="center">GitHub Statistics:</h3>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=NasKhalil&count_private=true" alt="KhalilNas" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=NasKhalil&count_private=true" alt="NasKhalil" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NasKhalil&theme=vue-dark" alt="AlaaAlsalem" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NasKhalil&theme=vue-dark" alt="NasKhalil" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasKhalil&layout=compact" alt="KhalilNas" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasKhalil&layout=compact" alt="NasKhalil" /></p>
