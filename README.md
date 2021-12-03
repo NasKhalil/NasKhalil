@@ -14,3 +14,6 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: khalil.nasri2021@gmail.com
 - ⚡ Fun fact: One of my hidden talents is negotiating with others, which I believe is what makes me a strong sales representative.
+
+
+![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NasKhali&count_private=true)
