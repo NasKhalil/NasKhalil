@@ -15,7 +15,8 @@
 - 📫 How to reach me: khalil.nasri2021@gmail.com
 - ⚡ Fun fact: One of my hidden talents is negotiating with others, which I believe is what makes me a strong sales representative.
 
+<h3 align="center">GitHub Statistics:</h3>
 
-![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NasKhalil&count_private=true)
+<p align="center">![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NasKhalil&count_private=true)</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasKhalil&layout=compact)](https://github.com/NasKhalil/github-readme-stats)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasKhalil&layout=compact)](https://github.com/NasKhalil/github-readme-stats)</p>
