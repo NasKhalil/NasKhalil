@@ -7,8 +7,6 @@
   <a href="https://www.instagram.com/nas_klil/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xee_law"  /></a>
 </p>
 
-**NasKhalil/NasKhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently a fulltime student at Microverse inc.
 - 🌱 I’m currently learning Front-End web development (HTML, CSS, JAVASCRIPT, BOOTSTRAP)
 - 👯 I’m looking to collaborate on JavaScript projects.
