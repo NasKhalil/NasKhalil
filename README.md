@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://twitter.com/KhalilNasri92https://twitter.com/KhalilNasri92" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="lawal_zeenat"></a>
    <a href="https://www.linkedin.com/in/nasri-khalil-androdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="zeenatlawal"></a>
-  <a href="https://www.instagram.com/tope.is.online/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xee_law"  /></a>
+  <a href="https://www.instagram.com/nas_klil/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xee_law"  /></a>
 </p>
 
 **NasKhalil/NasKhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
