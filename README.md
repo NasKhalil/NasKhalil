@@ -17,6 +17,11 @@
 
 <h3 align="center">GitHub Statistics:</h3>
 
-<p align="center">![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NasKhalil&count_private=true)</p>
+![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NasKhalil&count_private=true)
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasKhalil&layout=compact)](https://github.com/NasKhalil/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasKhalil&layout=compact)](https://github.com/NasKhalil/github-readme-stats)
+
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=NasKhalil&count_private=true" alt="KhalilNas" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasKhalil&layout=compact" alt="KhalilNas" /></p>
