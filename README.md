@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently a fulltime student at Microverse inc.
-- 🌱 I’m currently learning Front-End web development (HTML, CSS, JAVASCRIPT, BOOTSTRAP)
+- 🌱 I’m currently learning Front-End web development (HTML, CSS, Javascript, Bootstrap)
 - 👯 I’m looking to collaborate on JavaScript projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Web Development
